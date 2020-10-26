@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "W06 Prove Weather App"

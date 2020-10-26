@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather and Forecast</string>
+    <string name="city_name">City Name</string>
+    <string name="city_hint">Enter A City Name</string>
+    <string name="current_temp">Get Current Conditions</string>
+    <string name="forecast">Weather Forecast</string>
+    <string name="five_day">Five Day Forecast</string>
+</resources>
